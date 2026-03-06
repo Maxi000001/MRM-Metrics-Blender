@@ -38,3 +38,9 @@
 
 ---
 *Если этот инструмент помог вам в работе, буду благодарен за ⭐ на GitHub!*
+
+## 📺 Демонстрация работы
+
+[![MRM Metrics Pro Demo](https://img.youtube.com/vi/jzIKiHBdppc/maxresdefault.jpg)](https://youtu.be/jzIKiHBdppc)
+
+*Нажмите на изображение выше, чтобы посмотреть, как аддон работает на практике.*
